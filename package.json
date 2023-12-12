@@ -1,0 +1,14 @@
+{
+  "name": "schul.cloud.plus",
+  "version": "1.0.0",
+  "description": "Schul.Cloud+",
+  "main": "main.js",
+  "author": "Dennis Clausen",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^28.0.0"
+  }
+}
